@@ -16,7 +16,7 @@
 
 1. 주문서 강화 페이지
    
-   <img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/afbc189c-c2a7-4ce4-b749-ebc534048a30.png"  width="200" height="400"/>
+<img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/afbc189c-c2a7-4ce4-b749-ebc534048a30.png"  width="200" height="400"/>
 
    <br/>
    <br/>
