@@ -27,6 +27,7 @@
 
   <br/>
   <br/>
+  
 3.  큐브 강화 페이지
 
   <img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/85c40c04-5163-4a37-9b59-90057b2bfeb3.png"  width="200" height="400"/>
