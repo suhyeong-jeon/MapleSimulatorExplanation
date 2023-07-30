@@ -1,6 +1,6 @@
 ## 메이플스토리 강화 시뮬레이션 - 나메시
 
-![11](https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/6717fdb4-3a49-4137-8933-67e984981852)
+<img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/6717fdb4-3a49-4137-8933-67e984981852.png  width="200" height="400"/>
 
 
 ##### 가난한 나 개발자와 개발자같은 사람들을 위해 만든 메이플스토리 강화 시뮬레이션!
