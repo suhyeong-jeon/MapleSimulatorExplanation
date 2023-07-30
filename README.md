@@ -15,12 +15,13 @@
 <br/>
 
 1. 주문서 강화 페이지
+   
    <img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/afbc189c-c2a7-4ce4-b749-ebc534048a30.png"  width="200" height="400"/>
 
    <br/>
    <br/>
    
-2.  스타포스 강화 페이지
+3.  스타포스 강화 페이지
 
   <img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/f06f766c-3259-4f6a-8bf5-784b4fa95005.png"  width="200" height="400"/>
 
