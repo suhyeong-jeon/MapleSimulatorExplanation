@@ -21,7 +21,7 @@
    <br/>
    <br/>
    
-3.  스타포스 강화 페이지
+2.  스타포스 강화 페이지
 
   <img src="https://github.com/suhyeong-jeon/MapleSimulatorExplanation/assets/70623959/f06f766c-3259-4f6a-8bf5-784b4fa95005.png"  width="200" height="400"/>
 
@@ -34,4 +34,12 @@
 
   <br/>
   <br/>
+
+
+
+  문의나 기타 편의사항 건의 또는 연락등은 
+
+  wjstngud7@gmail.com
+
+  으로 메일 보내주시면 감사하겠습니다 :)
 
