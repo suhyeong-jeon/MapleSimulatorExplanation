@@ -2,6 +2,7 @@
 <br/>
 <br/>
 #### Application Info...
+You can check this app on AppStore : https://apps.apple.com/app/id6449191839
 <br/>
 <br/>
 
